@@ -90,11 +90,6 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ---
 
-## ✍️ Author
 
-**Gulbaaz**  
-Aspiring Data Analyst | Passionate about storytelling through data
-
----
 
 
