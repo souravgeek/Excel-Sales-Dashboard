@@ -81,15 +81,6 @@ The aim of this project is to demonstrate Excel-based data analysis and dashboar
 
 ---
 
-## 💼 Ideal For
-
-- Data Analyst Portfolio
-- Resume Projects
-- Interview Demonstration
-- Excel Practice Project
-
----
-
 
 
 
